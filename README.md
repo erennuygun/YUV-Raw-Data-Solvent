@@ -12,6 +12,6 @@ alt-örnekleme yapıldığı, düşeyde ise herhangi bir alt-
 örnekleme yapılmadığı duruma karşılık gelmektedir.</li>
 <li>  4:2:0 formatı: Renk kanallarında, 1⁄2 oranında yatay
 alt-örnekleme ve düşey alt-örnekleme yapıldığı
-durumdur.</li>
+durumdur. </li>
 
 
